@@ -63,7 +63,7 @@ if (Meteor.isServer) {
 
 //CLIENT CODE
 if (Meteor.isClient) {
-cd 
+    
     //SUBSCRIBING TO DATA (FOR SECURITY)
     Meteor.subscribe('thePlayers');
 
